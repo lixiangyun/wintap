@@ -1,5 +1,7 @@
 # wintap
 
+tap windows 虚拟网卡golang 开发库；方便大家开发各种“科学”工具；
+
 ## 使用说明
 
 1、先安装 [tap windows](https://build.openvpn.net/downloads/releases/tap-windows-9.23.3-I601-Win10.exe)
